@@ -1,0 +1,7 @@
+{
+  "name": "GHARgo",
+  "description": "On-demand trusted home services marketplace connecting verified electricians, plumbers, carpenters, and technicians with transparent pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
